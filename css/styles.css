@@ -6,7 +6,9 @@ body {
     /* background-color: #ff4c68; */
     background-color: #093009;
     color: #fff;
+   
   }
+  
   h1 {
     font-family: "Poppins", sans-serif;
     line-height: 1.5;
@@ -49,7 +51,7 @@ body {
     font-size: 2.5rem;
   }
   .nav-item {
-    padding: 0 18px;
+    padding: 0 15px;
   }
   .nav-link {
     font-size: 1.2rem;
@@ -90,6 +92,7 @@ body {
     text-align: center;
     background-color: #F7C620;
     color: #fff;
+   
   }
   .carousel-item {
     padding: 7% 15%;
